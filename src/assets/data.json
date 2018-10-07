@@ -1,0 +1,131 @@
+{
+  "result": {
+    "January": [{
+        "day": "Monday",
+        "date": "Jan 01, 2018",
+        "festival": "New Year's Day"
+      },
+      {
+        "day": "Sunday",
+        "date": "Jan 14, 2018",
+        "festival": "Makar Sankranti / Pongal"
+      },
+      {
+        "day": "Friday",
+        "date": "Jan 26, 2018",
+        "festival": "Republic Day"
+      }
+    ],
+    "February": [{
+      "day": "Wednesday",
+      "date": "Feb 14, 2018",
+      "festival": "Maha Shivaratri"
+    }],
+    "March": [{
+        "day": "Friday",
+        "date": "Mar 02, 2018",
+        "festival": "Holi"
+      },
+      {
+        "day": "Sunday",
+        "date": "Mar 18, 2018",
+        "festival": "Ugadi / Gudi Padwa"
+      },
+      {
+        "day": "Sunday",
+        "date": "Mar 25, 2018",
+        "festival": "Ram Navami"
+      },
+      {
+        "day": "Thursday",
+        "date": "Mar 29, 2018",
+        "festival": "Mahavir Jayanti"
+      },
+      {
+        "day": "Friday",
+        "date": "Mar 30, 2018",
+        "festival": "Good Friday"
+      }
+
+    ],
+    "April": [{
+      "day": "Monday",
+      "date": "Apr 30, 2018",
+      "festival": "Budhha Purnima"
+    }],
+    "May": [{
+      "day": "Tuesday",
+      "date": "May 01, 2018",
+      "festival": "Labor Day"
+    }],
+    "June": [{
+      "day": "Saturday",
+      "date": "Jun 16, 2018",
+      "festival": "Eid-ul-Fitar"
+    }],
+    "July": [{
+      "day": "Saturday",
+      "date": "Jul 14, 2018",
+      "festival": "Rath Yatra"
+    }],
+    "August": [{
+      "day": "Wednesday",
+      "date": "Aug 15, 2018",
+      "festival": "Independence Day"
+    }, {
+      "day": "Wednesday",
+      "date": "Aug 22, 2018",
+      "festival": "Bakri Id / Eid ul-Adha"
+    }, {
+      "day": "Saturday",
+      "date": "Aug 25, 2018",
+      "festival": "Onam"
+    }, {
+      "day": "Sunday",
+      "date": "Aug 26, 2018",
+      "festival": "Raksha Bandhan"
+    }],
+    "September": [{
+        "day": "Monday",
+        "date": "Sep 03, 2018",
+        "festival": "Janmashtami"
+      }, {
+        "day": "Thursday",
+        "date": "Sep 13, 2018",
+        "festival": "Vinayaka Chaturthi"
+      },
+      {
+        "day": "Friday",
+        "date": "Sep 21, 2018",
+        "festival": "Muharram"
+      }
+    ],
+    "October": [{
+      "day": "Tuesday",
+      "date": "Oct 02, 2018",
+      "festival": "Mathatma Gandhi Jayanti"
+    }, {
+      "day": "Friday",
+      "date": "Oct 19, 2018",
+      "festival": "Dussehra / Dasara"
+    }],
+    "November": [{
+      "day": "Wednesday",
+      "date": "Nov 07, 2018",
+      "festival": "Diwali / Deepavali"
+    }, {
+      "day": "Wednesday",
+      "date": "Nov 21, 2018",
+      "festival": "Milad un Nabi"
+    }, {
+      "day": "Friday",
+      "date": "Nov 23, 2018",
+      "festival": "Guru Nanak 's Birthday"
+    }],
+    "December": [{
+      "day": "Tuesday",
+      "date": "Dec 25, 2018",
+      "festival": "Christmas"
+    }]
+  }
+}
