@@ -2,11 +2,13 @@ import { Component, OnInit } from '@angular/core';
 import { DataService } from '../data.service';
 
 @Component({
-  selector: 'app-festival',
-  templateUrl: './festival.component.html',
-  styleUrls: ['./festival.component.scss']
+  selector: 'app-festival-fix-header',
+  templateUrl: './festival-fix-header.component.html',
+  styleUrls: ['./festival-fix-header.component.scss']
 })
-export class FestivalComponent implements OnInit {
+export class FestivalFixHeaderComponent implements OnInit {
+
+
 
   public festivalLists = [];
   public monthLists = [];
@@ -33,4 +35,5 @@ export class FestivalComponent implements OnInit {
       this.festivalLists = this.results[value];
     }
   }
+
 }

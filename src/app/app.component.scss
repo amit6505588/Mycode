@@ -1,0 +1,15 @@
+.center-section {
+
+  display: flex;
+  flex-direction: row;
+}
+
+.left {
+  width: 20%;
+  background-color: azure;
+}
+
+.right {
+  width: 80%;
+  background-color: cyan;
+}

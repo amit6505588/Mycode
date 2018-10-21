@@ -10,7 +10,7 @@ export class DataService {
 
   }
   getFestivalDetails():Observable<any>{
-    return this.http.get('assets/data.json');
+    return this.http.get('http://localhost:3000/data');
 
   }
 }
